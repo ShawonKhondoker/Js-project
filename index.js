@@ -9,7 +9,7 @@ let a = 2;
 let b = 30;
 const ip = 3.342553634;
 const cars = ["Saab", "Volvo", "BMW"];
-const date = new Date("2022-03-25");
+const date = new Date("2023-02-21");
 
 
 
